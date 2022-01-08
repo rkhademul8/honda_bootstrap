@@ -95,3 +95,20 @@ common style
      font-size: 16px;
      text-align: justify;
  }
+
+ /*-------------------
+  happy client style 
+  --------------*/
+  .news_title span{
+      color: #E76F51;
+  }
+  .card-img-top_cus{
+    width: 200px !important;
+    margin: 0 auto;
+  }
+  .filled{
+      color:#E76F51;
+  }
+  .unfilled{
+    color:#E76F51;
+  }
