@@ -75,3 +75,23 @@ common style
     margin-top: 5px;
     border: 2px solid rgb(218, 13, 13);
 }
+
+/*----------------
+ latest news style 
+ --------------*/
+ .news_title{
+     text-align: center;
+     color: #0A0826;
+     font-weight: 600;
+     font-size: 48px;
+ }
+ .card-title{
+     color:#18191F;
+     font-size:28px;
+     font-weight: bold;
+ }
+ .card-text{
+     color: #6C6C6C;
+     font-size: 16px;
+     text-align: justify;
+ }
